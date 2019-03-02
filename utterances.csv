@@ -1,0 +1,42 @@
+greet,hey
+greet,howdy
+greet,hey there
+greet,hello
+greet,hi
+greet,good morning
+greet,good evening
+greet,dear sir
+affirm,yes
+affirm,yep
+affirm,yeah
+affirm,indeed
+affirm,that's right
+affirm,ok
+affirm,great
+affirm,right thank you
+affirm,correct
+affirm,great choice
+affirm,sounds really good
+restaurant_search,i'm looking for a place to eat
+restaurant_search,I want to grab lunch
+restaurant_search,I am searching for a dinner spot
+restaurant_search,i'm looking for a place in the north of town
+restaurant_search,show me chinese restaurants
+restaurant_search,show me chines restaurants in the north
+restaurant_search,show me a mexican place in the centre
+restaurant_search,i am looking for an indian spot called olaolaolaolaolaola
+restaurant_search,search for restaurants
+restaurant_search,anywhere in the west
+restaurant_search,anywhere near 18328
+restaurant_search,I am looking for asian fusion food
+restaurant_search,I am looking a restaurant in 29432
+restaurant_search,I am looking for mexican indian fusion
+restaurant_search,central indian restaurant
+goodbye,bye
+goodbye,goodbye
+goodbye,good bye
+goodbye,stop
+goodbye,end
+goodbye,farewell
+goodbye,Bye bye
+goodbye,have a good one
