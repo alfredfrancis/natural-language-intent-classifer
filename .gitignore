@@ -1,6 +1,7 @@
 venv
 env
-*.pyc
-.idea/
 .code/
+*.pyc
+model.pickle
+.idea/
 
